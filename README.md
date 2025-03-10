@@ -1,6 +1,7 @@
 # Brooks Agencies Website
 
 Welcome to the **Brooks Agencies Website** repository. This project is a professional website for Brooks Agencies, a company specializing in debt collection and financial investigations.
+![Brooks Website Overview](./images/Brooks2.png)
 
 ## Table of Contents
 - [Overview](#overview)
